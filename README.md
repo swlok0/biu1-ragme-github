@@ -8,7 +8,7 @@ This is an application based on Retrieval Augmented Generation (RAG), supporting
 
 ## Demo
 
-### 🌟 Try it out 🥳👍 | [Try The Demo](https://gemini.google.com/share/5c9e937d9566)
+### 🌟 Try it out 🥳👍 | [Try The Demo](https://share.gemini.google/c8rDHL4Xg7r3)
 (Note. The Demo version only works on who might access to Google Gemini)
 
 <div align="center">
